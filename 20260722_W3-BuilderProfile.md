@@ -1,6 +1,9 @@
 # Builder Profile
 
+我的X主页：https://x.com/arcnapanpan
+
 **我的方向：** Ops
+
 
 **我会什么：**
 - 项目拆解与白皮书分析——从叙事层到 Tokenomics 到链上数据验证，出一篇结构化的深度文章
